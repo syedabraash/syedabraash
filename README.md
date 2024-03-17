@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syedabraash
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Data Science / Machine Learning
+- 👀 I’m an Undergrad in Artificial Intelligence
+- 🌱 I’m currently learning Data Science / Machine Learning / Computer Vision
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 
 <!---
