@@ -2,7 +2,7 @@
 
 # Hi, I'm Abraash 👋
 
-AI graduate turned data & automation enthusiast — I build things at the intersection of
+AI graduate with interest in Data Analytics & Automation  — I build things at the intersection of
 **data analysis, network science, and applied AI.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedabraash)
