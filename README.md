@@ -17,7 +17,7 @@ AI graduate turned data & automation enthusiast — I build things at the inters
 - 🎓 B.S. in Artificial Intelligence, Hamdard University, Karachi
 - 📊 Certified Data Analyst (DataCamp / Power BI)
 - 💼 Former intern at **CodeSign** (Power BI dashboards, BI) and **WENAWA** (predictive analytics)
-- 🔭 Actively exploring roles in **Data Analysis, AI Engineering, Business Analysis, and Automation**
+- 🔭 Actively exploring **Data Analysis, AI Engineering, Business Analysis, and Automation**
 
 ---
 
