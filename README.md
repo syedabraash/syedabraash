@@ -45,7 +45,7 @@ data limitations.
 **[SpinMaster](https://github.com/syedabraash/SpinMaster_Final)**
 Final-year AI table tennis coaching system combining TTNet (CNN+LSTM) for shot
 classification with MediaPipe Pose for biomechanical analysis. Built over ~11 months with
-a teammate, under academic supervision. Ongoing expansion: ball detection, scoring,
+a teammate, under academic supervision. Future expansion: ball detection, scoring,
 and player weakness detection.
 `Computer Vision` `Deep Learning` `MediaPipe`
 
